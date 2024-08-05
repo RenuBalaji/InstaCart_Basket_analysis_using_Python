@@ -22,7 +22,17 @@ f. What is the departmental-distribution of the customers who are regular users 
 g. Customers from which region order from which departments the highest?
 
 ## Data Set
-The Instacart Online Grocery Shopping Dataset is from 2017 and contains order, customer, products and departmental details. [InstaCart Data set](www.instacart.com/datasets/grocery-shopping-2017) 
+The Instacart Online Grocery Shopping Dataset is from 2017 and contains the following data:
+
+● orders
+
+● products
+
+● customers
+
+● departments
+
+The customer dataset and column 'prices' were added to the original dataset for learning purpose of the Career Foundary course.
 
 ## Project Deliverables
 The project will conclude with an in-depth analysis, showcasing Python scripting, visualizations using different libraries, and a well-crafted narrative that transforms complex data into practical marketing insights. This final report will provide a clear, detailed understanding of the findings, facilitating informed decision-making and strategic planning.
