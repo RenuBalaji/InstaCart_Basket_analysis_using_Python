@@ -37,4 +37,20 @@ The customer dataset and column 'prices' were added to the original dataset for 
 ## Project Deliverables
 The project will conclude with an in-depth analysis, showcasing Python scripting, visualizations using different libraries, and a well-crafted narrative that transforms complex data into practical marketing insights. This final report will provide a clear, detailed understanding of the findings, facilitating informed decision-making and strategic planning.
 
+## Tools used
+
+The data was analysed using Python and the following libraries were utilized in the analysis:
+
+● Pandas : for data analysis
+
+● Numpy: for mathematical equations and operations
+
+● Seaborn: for data visulizations
+
+● Matplotlib: for data visulizations and plotting graphs
+
+● Scipy: for data based equations
+
+
+
 
